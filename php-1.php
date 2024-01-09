@@ -1,5 +1,5 @@
 <?php 
-
+//esercizio 1
 $Integer = 4;
 $Float = 3.2;
 $String = "ciao"; 
@@ -12,7 +12,7 @@ var_dump ($Boolean);
 
 
 
-
+//esercizio 2
 $text1 = "Marco"; 
 $text2 = "hai"; 
 $text3 = "sete"; 
@@ -29,7 +29,7 @@ echo $text1 . " " . $text2 . " " . $text3 . $text4 . "\n" . $text5 . " " . $text
 
 
 
-
+//esercizio 3
 $words1 = [ 
     'una', 
     67, 
@@ -84,6 +84,7 @@ $words1 = [
   
 
 
+  //esercizio 4
   $x = 10; 
   $y = 20; 
   $z = "20"; 
